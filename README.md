@@ -23,7 +23,6 @@ Find and remove potentially harmful browser extensions to improve browser securi
 | Extension Name      | Reason for Removal                          |
 |---------------------|---------------------------------------------|
 | Easy PDF Converter  | Unused, full access permission, bad reviews |
-| Coupon Galaxy       | Injected ads, suspicious background scripts |
 
 ## 💡 What I Learned
 
@@ -37,5 +36,5 @@ Stored in the `screenshots/` folder:
 - `before_removal.png`
 - `after_removal.png`
 
-## 📁 Repository Structure
+
 
